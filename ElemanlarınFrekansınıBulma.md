@@ -1,3 +1,4 @@
+```
 package Diziler;
 import java.util.Arrays;
 
@@ -32,3 +33,4 @@ public class ElemanFrekansi {
         }
     }
 }
+```
