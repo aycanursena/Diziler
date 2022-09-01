@@ -1,3 +1,4 @@
+```
 package Diziler;
 import java.util.Arrays;
 
@@ -13,3 +14,4 @@ public class DiziOrt {
         System.out.println("Harmonik Ortalama : " + (toplam1 / sayilar.length));
     }
 }
+```
