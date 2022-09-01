@@ -1,3 +1,4 @@
+```
 package Diziler;
 import java.util.Scanner;
 
@@ -21,3 +22,4 @@ public class PalindromikKelime {
         System.out.println(isPalindrome(gir_kelime));
     }
 }
+```
