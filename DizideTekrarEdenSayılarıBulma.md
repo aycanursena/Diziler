@@ -1,3 +1,4 @@
+```
 package Diziler;
 
 public class TekrarEdenSayiBulma {
@@ -33,3 +34,4 @@ public class TekrarEdenSayiBulma {
         }
     }
 }
+```
