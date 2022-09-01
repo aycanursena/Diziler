@@ -1,3 +1,4 @@
+```
 package Diziler;
 import java.util.Scanner;
 import java.util.Arrays;
@@ -21,3 +22,4 @@ public class ElemanSiralama {
         System.out.println("Sıralı dizi : " + Arrays.toString(list));
     }
 }
+```
