@@ -1,3 +1,4 @@
+```
 package Diziler;
 import java.util.Scanner;
 import java.util.Arrays;
@@ -56,3 +57,4 @@ public class SayiTahminEtmeOyunu {
         }
     }
 }
+```
